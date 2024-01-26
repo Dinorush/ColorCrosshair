@@ -1,0 +1,6 @@
+.vs/*
+*.vs
+ColorCrosshair/bin/*
+ColorCrosshair/lib/*
+ColorCrosshair/obj/*
+/ColorCrosshair/GameFolder.props
