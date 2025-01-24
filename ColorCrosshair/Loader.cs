@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 namespace ColorCrosshair
 {
-    [BepInPlugin("Dinorush." + MODNAME, MODNAME, "1.0.0")]
+    [BepInPlugin("Dinorush." + MODNAME, MODNAME, "1.1.0")]
     internal sealed class Loader : BasePlugin
     {
         public const string MODNAME = "ColorCrosshair";
